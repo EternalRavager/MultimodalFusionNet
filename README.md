@@ -69,7 +69,7 @@ python scripts/predict.py
 
 ### 🟢 How to Run and Verify (Execution Guide)
 
-Follow these exact steps to ensure everything works on your machine before the interview.
+Follow these exact steps to ensure everything works on your machine.
 
 **Step 1: Setup the Folder Structure**
 Create a folder named `multimodal_webpage_classification` and inside it create a `scripts` folder and a `data/raw` folder.
